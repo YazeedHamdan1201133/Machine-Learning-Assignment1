@@ -108,4 +108,9 @@ Ensure you have the cars.csv dataset in the same directory as the script. Then, 
 ```sh
 python Assignment1ML.py
 ```
+## Author
+Developed by **Yazeed Hamdan** 
 
+
+## 📧 Contact
+For any questions or suggestions, reach out via GitHub Issues or email.
