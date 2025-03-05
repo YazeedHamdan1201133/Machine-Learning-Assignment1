@@ -95,7 +95,17 @@ This project generates multiple **plots** to analyze relationships between varia
 ---
 
 ## 📎 How to Run the Code?
+
 ### 1️⃣ Install Required Libraries
-If you don’t have the required Python libraries installed, run:
+Before running the script, ensure you have the necessary Python libraries installed.  
+If they are not installed, use the following command:
+
 ```sh
 pip install pandas matplotlib seaborn numpy
+```
+### 2️⃣ Run the Script
+Ensure you have the cars.csv dataset in the same directory as the script. Then, execute the following command in your terminal or command prompt:
+```sh
+python Assignment1ML.py
+```
+
