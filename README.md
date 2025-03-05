@@ -1,7 +1,7 @@
 # 📊 Machine Learning Assignment 1 - Data Analysis & Regression
 
-## 📌 Overview
-This project involves **data preprocessing, visualization, and regression modeling** on a dataset of cars. The goal is to **analyze relationships** between features such as **horsepower and MPG** and apply **linear & quadratic regression** techniques to understand these relationships.  
+##  Overview
+This Assignment involves **data preprocessing, visualization, and regression modeling** on a dataset of cars. The goal is to **analyze relationships** between features such as **horsepower and MPG** and apply **linear & quadratic regression** techniques to understand these relationships.  
 
 The project includes:
 - **Handling missing values**
